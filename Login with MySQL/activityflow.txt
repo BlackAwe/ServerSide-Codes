@@ -1,0 +1,5 @@
+Step 1: Set up the database
+Step 2: Create the necessary forms
+Step 3: Handle user registration (connect mysql, check for connection error, check if form is submitted, insert to database, close the connection)
+Step 4: Handle user login (start the session, check for error, check if form is submitted, retrieve user from db, fetch and verify, set session, close the connection)
+Step 6: Set up the dashboard, handle login and logout
